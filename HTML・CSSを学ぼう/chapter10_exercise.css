@@ -77,10 +77,10 @@ footer {
 	.service {
 		float: none;
 		width: 90%;
-		margin: 20px;
+		margin: auto;
+		margin-bottom: 20px;
 	}
-
-	.main-visual {
-		height: ;
+	.service:last-child {
+		margin-right: auto;
 	}
 }
